@@ -1,0 +1,12 @@
+const three = 3;
+const two = 2;
+console.log(three === two);
+console.log(three !== two);
+const iAmAStudent = true;
+const isSpring = false;
+const javaSciptIsBeauty = false; 
+const constCanBeChanged = false;
+const letCanBeChanged = true;
+const nullIsADataType = false;
+const nullIsAValue = false;
+const iAmFromGrozny = false;
